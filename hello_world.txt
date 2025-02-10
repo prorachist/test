@@ -1,2 +1,3 @@
 Hello, World!
+Updated changes in the new branch
 This is my first GitHub repository.
